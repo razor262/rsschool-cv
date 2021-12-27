@@ -15,7 +15,7 @@ body {
   border-radius: 5px;
 }
 .header {
-  background-color: #2d2d2d;
+  background-color: #000;
   display: flex;
   justify-content: center;
   height: 50px;
@@ -110,12 +110,34 @@ body {
   padding-bottom: 10px;
 }
 .about-png {
-  padding-left: 20px;
+/*  padding-left: 20px;
   padding-right: 20px;
-  width: 100%;
+  width: 100%;*/
+  display: flex;
+  justify-content: center;
+  height: 100px;
 }
 .about-image-png {
   width: 93%;
 }
 
+.footer {
+  display: flex;
+  justify-content: space-around;
+  height: 100%;
 
+  background-color: #000;
+  
+  
+  height: 50px;
+  border-radius: 5px;
+}
+
+.Github {
+  text-decoration: none;
+  color: #fff;
+  padding: 2px 3px;
+}
+.footer-inner {
+  margin-top: 20px;
+}
