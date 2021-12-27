@@ -1,5 +1,4 @@
 # rsschool-cv
 
-https://razor262.github.io/rsschool-cv/
-
+https://youthful-ptolemy-f27ac3.netlify.app/
 
